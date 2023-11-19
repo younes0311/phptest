@@ -1,0 +1,12 @@
+#nav{
+    display: flex;
+    background: grey;
+    font-size: 30px;
+    justify-content: space-evenly
+    ;
+}
+
+#nav a{
+    color: white;
+    text-decoration: none;
+}
